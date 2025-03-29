@@ -1,5 +1,5 @@
-<div align="center">
-  <img  src="https://th.bing.com/th/id/OIP.fgWNAdjuEwPx7rfZKns8DAHaEK?rs=1&pid=ImgDetMain"/>
+<div align="center" style="background: url('https://th.bing.com/th/id/OIP.Ij3Rk03PEW1bay8yPJenMQHaEK?rs=1&pid=ImgDetMain'); background-size: cover; padding: 20px;">
+  <img height="200" src="https://assets.isu.pub/document-structure/230217143111-2658d4493d9bc947b139d65c18810af5/v1/fc50dee6d451c4882c43002228629be5.jpeg"/>
 </div>
 
 ###
